@@ -4,7 +4,7 @@ CAD 拔模工具，将 CAD 图纸转换为 Revit 格式
 
 ## 演示视频
 
-https://raw.githubusercontent.com/guyi2000/ConvertCAD2Revit/main/assets/demo.mp4
+https://github.com/guyi2000/ConvertCAD2Revit/assets/16850027/ccd7075a-545b-48ec-804e-0f186c2c9343
 
 ## 安装方法
 
